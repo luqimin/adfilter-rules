@@ -1,0 +1,39 @@
+m.cnbeta.com###content_wrap > div.module:nth-child(3)
+m.cnbeta.com###content_wrap > div.module:nth-child(5)
+m.cnbeta.com###content_wrap > section.clearfix:last-child > div.cnbeta-article-latest:nth-child(9)
+m.cnbeta.com###content_wrap > section.clearfix:last-child > div.cnbeta-article-latest:nth-child(8)
+m.cnbeta.com.tw###content_wrap > section.clearfix:last-child > div.cnbeta-article-latest:nth-child(8)
+profile.zjurl.cn##div.open-tabs.toutiao.bottom-style:nth-child(6)
+m.ithome.com##div.index-box:nth-child(2) > div.fixed-btn:last-child > a.open-app-a:last-child
+m.ithome.com##div.index-box:nth-child(2) > div.head:nth-child(2) > div.hd:first-child > div.brand-column:last-child > a.brand-column-item.brand-column-lapin:first-child
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.news:first-child > main:nth-child(2) > div.news-footer:last-child
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.news:first-child > div.grade:last-child
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.relevant-news:nth-child(2)
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.hot-app:nth-child(6)
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.footer:last-child
+m.ithome.com##div.page-box:first-child > div.head:nth-child(2) > div.hd > div.brand-column:last-child > a.brand-column-item.brand-column-lapin:first-child
+hot.cnbeta.com##div.main-wrap:nth-child(2) > div.cnbeta-article-wrapper:last-child > div.cnbeta-update:nth-child(2) > div.w1200 > div.cnbeta-article:first-child > div.cnbeta-article-latest.mt5:nth-child(5)
+cnbeta.com##div.main-wrap:nth-child(2) > div.cnbeta-article-wrapper:last-child > div.cnbeta-update:nth-child(2) > div.w1200 > div.cnbeta-article:first-child > div.cnbeta-article-latest.mt5:nth-child(5)
+@@||feishu.cn^$important,document
+@@||chj.cloud^$important,document
+juejin.cn###juejin > div.view-container:first-child > main.container.main-container:last-child > div.view.column-view > div.article-suspended-panel:last-child
+bilibili.com##div.pop-live-small-mode
+bilibili.com##div.ad-floor-cover
+bilibili.com##.ad-report
+bilibili.com##a.ad-floor-exp
+@@||chehejia.com^$important,document
+@@||lixiang.com^$important,document
+zhihu.com##div.Catalog
+www.flyert.com##.of_forum_nav_wrapper
+cnbeta.com.tw##div#topView
+zhihu.com##.Pc-word
+zhihu.com##.Question-sideColumn
+m.cnbeta.com.tw##.info_list > li:has(.txt_detail:contains(/华为|问界|鸿蒙|智界/))
+zhihu.com##.TopstoryItem:has(a:contains(/华为|问界|鸿蒙|智界/))
+zhihu.com##.HotItem:has(.HotItem-title:contains(/华为|鸿蒙|智界|问界/))
+ithome.com##.placeholder:has(.plc-title:contains(/华为|问界|鸿蒙|智界/))
+m.ithome.com##div.index-box:nth-child(2) > div.banner:nth-child(3)
+ithome.com##.placeholder:has(.title:contains(/华为|问界|鸿蒙|智界/))
+ithome.com##.swiper-slide:contains(/华为|问界|鸿蒙|智界/)
+ithome.com##a:contains(/华为|问界|鸿蒙|智界/)
+m.cnbeta.com.tw##a:contains(/华为|问界|鸿蒙|智界/)
