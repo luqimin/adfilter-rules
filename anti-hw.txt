@@ -14,25 +14,22 @@ m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.footer:l
 m.ithome.com##div.page-box:first-child > div.head:nth-child(2) > div.hd > div.brand-column:last-child > a.brand-column-item.brand-column-lapin:first-child
 hot.cnbeta.com##div.main-wrap:nth-child(2) > div.cnbeta-article-wrapper:last-child > div.cnbeta-update:nth-child(2) > div.w1200 > div.cnbeta-article:first-child > div.cnbeta-article-latest.mt5:nth-child(5)
 cnbeta.com##div.main-wrap:nth-child(2) > div.cnbeta-article-wrapper:last-child > div.cnbeta-update:nth-child(2) > div.w1200 > div.cnbeta-article:first-child > div.cnbeta-article-latest.mt5:nth-child(5)
-@@||feishu.cn^$important,document
-@@||chj.cloud^$important,document
 juejin.cn###juejin > div.view-container:first-child > main.container.main-container:last-child > div.view.column-view > div.article-suspended-panel:last-child
 bilibili.com##div.pop-live-small-mode
 bilibili.com##div.ad-floor-cover
 bilibili.com##.ad-report
 bilibili.com##a.ad-floor-exp
-@@||chehejia.com^$important,document
-@@||lixiang.com^$important,document
 zhihu.com##div.Catalog
 www.flyert.com##.of_forum_nav_wrapper
 cnbeta.com.tw##div#topView
 zhihu.com##.Pc-word
 zhihu.com##.Question-sideColumn
+zhihu.com##.AppHeader.is-fixed
+m.ithome.com##div.index-box:nth-child(2) > div.banner:nth-child(3)
 m.cnbeta.com.tw##.info_list > li:has(.txt_detail:contains(/华为|问界|鸿蒙|智界/))
 zhihu.com##.TopstoryItem:has(a:contains(/华为|问界|鸿蒙|智界/))
 zhihu.com##.HotItem:has(.HotItem-title:contains(/华为|鸿蒙|智界|问界/))
 ithome.com##.placeholder:has(.plc-title:contains(/华为|问界|鸿蒙|智界/))
-m.ithome.com##div.index-box:nth-child(2) > div.banner:nth-child(3)
 ithome.com##.placeholder:has(.title:contains(/华为|问界|鸿蒙|智界/))
 ithome.com##.swiper-slide:contains(/华为|问界|鸿蒙|智界/)
 ithome.com##a:contains(/华为|问界|鸿蒙|智界/)
