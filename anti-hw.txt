@@ -35,4 +35,5 @@ ithome.com##.swiper-slide:contains(/华为|问界|鸿蒙|智界/)
 ithome.com##a:contains(/华为|问界|鸿蒙|智界/)
 m.cnbeta.com.tw##a:contains(/华为|问界|鸿蒙|智界/)
 zhihu.com##a:has(h1:contains(/华为|问界|鸿蒙|智界/))
-
+kkj.cn##li:contains(/华为|问界|鸿蒙|智界/)
+kkj.cn##a:contains(/华为|问界|鸿蒙|智界/)
