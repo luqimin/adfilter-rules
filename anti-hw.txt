@@ -19,6 +19,7 @@ bilibili.com##div.pop-live-small-mode
 bilibili.com##div.ad-floor-cover
 bilibili.com##.ad-report
 bilibili.com##a.ad-floor-exp
+bilibili.com###gift-control-vm
 zhihu.com##div.Catalog
 www.flyert.com##.of_forum_nav_wrapper
 cnbeta.com.tw##div#topView
