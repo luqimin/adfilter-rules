@@ -12,6 +12,7 @@ m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.relevant
 m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.hot-app:nth-child(6)
 m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.footer:last-child
 m.ithome.com##div.page-box:first-child > div.head:nth-child(2) > div.hd > div.brand-column:last-child > a.brand-column-item.brand-column-lapin:first-child
+m.ithome.com##.one-img-plc:has(.tip:contains(/广告/))
 hot.cnbeta.com##div.main-wrap:nth-child(2) > div.cnbeta-article-wrapper:last-child > div.cnbeta-update:nth-child(2) > div.w1200 > div.cnbeta-article:first-child > div.cnbeta-article-latest.mt5:nth-child(5)
 cnbeta.com##div.main-wrap:nth-child(2) > div.cnbeta-article-wrapper:last-child > div.cnbeta-update:nth-child(2) > div.w1200 > div.cnbeta-article:first-child > div.cnbeta-article-latest.mt5:nth-child(5)
 juejin.cn###juejin > div.view-container:first-child > main.container.main-container:last-child > div.view.column-view > div.article-suspended-panel:last-child
