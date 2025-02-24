@@ -38,6 +38,7 @@ ithome.com##.placeholder:has(.title:contains(/华为|问界|鸿蒙|智界|享界
 ithome.com##.swiper-slide:contains(/华为|问界|鸿蒙|智界|享界|尊界/)
 ithome.com##a:contains(/华为|问界|鸿蒙|智界|享界|尊界/)
 m.cnbeta.com.tw##a:contains(/华为|问界|鸿蒙|智界|享界|尊界/)
+m.cnbeta.com.tw##a:has(p:contains(/华为|问界|鸿蒙|智界|享界|尊界/))
 zhihu.com##a:has(h1:contains(/华为|问界|鸿蒙|智界|享界|尊界/))
 kkj.cn##li:contains(/华为|问界|鸿蒙|智界|享界|尊界/)
 kkj.cn##a:contains(/华为|问界|鸿蒙|智界|享界|尊界/)
